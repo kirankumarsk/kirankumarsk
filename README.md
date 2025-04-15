@@ -20,9 +20,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirankumarsk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarsk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirankumarsk&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=user=kirankumarsk&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <br>
 </br>
 <div align="center">🙏 Thanks for stopping by! 🙏
