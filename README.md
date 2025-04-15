@@ -18,8 +18,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/14902467/kiran-kumar-s-k)
 [![Portfolio](https://img.shields.io/badge/-Website-4c1?style=flat-square&logo=icloud)](https://kirankumarsk.github.io/Portfolio)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirankumarsk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarsk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 </br>
 <div align="center">🙏 Thanks for stopping by! 🙏
