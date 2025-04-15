@@ -1,19 +1,28 @@
-### Hi there, I'm Kiran Kumar S K 👋
-### A certified AWS Cloud Practitioner
-##### I'm a  Designer and Developer
-## Welcome to My GitHub❤️
-##### I Belive that "A Coding for me will have to bring an enthusiastic works for this real world. A love in adventuring, learning and understanding the things are eagerly waiting. Design & Develop is not how it looks like and feels like. Design & Develop is how it works". 
 
-- 🔭 I’m currently working on Web Development, Cloud Management 👩‍💻
-- 🌱 I’m currently learning everything 🤣 
+### 👋 Hi there, I'm Kiran Kumar S K
+### ☁️ Certified AWS Cloud Practitioner | 💻 Designer & Developer
+
+## Welcome to My Digital Space ❤️
+
+##### "Coding, for me, is about crafting enthusiastic solutions for the real world. I'm driven by a love for exploration, continuous learning, and a deep understanding of how things work. Design and Development isn't just about aesthetics; it's about impactful functionality."
+
+- 🔭 Currently immersed in Web Development and Cloud Management 👩‍💻
+- 🌱 Perpetually learning and exploring new horizons 🤣
 - 😄 Pronouns: He/him
-- Contact me by
+- 🔗 Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kirankumarsk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/kirankumarsk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kiran-kumar-s-k-b57819196/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Kiranskkumar2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14902467/kiran-kumar-s-k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kirankumarsk.github.io/Portfolio) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kirankumarsk&theme=dark)](https://git.io/streak-stats)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)](https://github.com/kirankumarsk)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/kirankumarsk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiran-kumar-s-k-b57819196/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Kiranskkumar2)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/14902467/kiran-kumar-s-k)
+[![Portfolio](https://img.shields.io/badge/-Website-4c1?style=flat-square&logo=icloud)](https://kirankumarsk.github.io/Portfolio)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirankumarsk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumarsk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirankumarsk&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br>
 </br>
-<div align="center">🤝 Thanks for visiting My profile 🤝
+<div align="center">🙏 Thanks for stopping by! 🙏
+</div>
